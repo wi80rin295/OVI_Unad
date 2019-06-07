@@ -230,7 +230,7 @@
                                     </div>
                                     <ul class="content-list">
                                         <li>
-                                            <i class="fa fa-dot-circle-o"></i>CODIGO : 80029506</li>
+                                            <i class="fa fa-dot-circle-o"></i>CODIGO : 8002XXXX</li>
                                         <li>
                                             <i class="fa fa-dot-circle-o"></i>PROGRAMA: INGENIERIA DE SISTEMAS </li>
                                         <li>
