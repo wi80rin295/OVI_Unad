@@ -157,6 +157,9 @@
                             <li role="presentation">
                                 <a href="#ACT3" data-toggle="tab">ACTIVIDAD 3</a>
                             </li>
+                            <li role="presentation">
+                                <a href="#ACT4" data-toggle="tab">ACTIVIDAD 4</a>
+                            </li>
                         </ul>
                     </div>
                     <!--Start single tab content-->
@@ -171,15 +174,19 @@
                                     <h3>ACTIVIDAD 1</h3>
                                     </div>
                                     <div class="text">
-                                        <p ALIGN="justify">Actividades académicas en línea.</p>
+                                        <p ALIGN="justify">XAMPP: Es un servidor independiente de plataforma, software libre, que consiste principalmente en la base de datos MySQL, el servidor Web Apache y los intérpretes para lenguajes de script: PHP y Perl.</p>
                                     </div>
                                     <ul class="content-list">
                                         <li>
-                                            <i class="fa fa-dot-circle-o"></i>Actividad 1.1</li>
+                                            <i class="fa fa-dot-circle-o"></i>Información acerca de Xampp</li>
                                         <li>
-                                            <i class="fa fa-dot-circle-o"></i>Actividad 1.2 </li>
+                                            <i class="fa fa-dot-circle-o"></i>Instalación Xampp</li>
+                                        <li>
+                                            <i class="fa fa-dot-circle-o"></i>Video de Instalación</li>
+                                        <li>
+                                            <i class="fa fa-dot-circle-o"></i>Parametrización de Xampp</li>
                                     </ul>
-                                    <a href="Actividad1.php" class="btn btn-style-one">Conoce Mas</a>
+                                    <a data-fancybox href="https://www.youtube.com/watch?v=QD0s93Wtm6w "><i class="fa fa-play"></i>Conoce Mas</a>
                                 </div>
                             </div>
                         </div>
@@ -195,15 +202,22 @@
                                         <h3>ACTIVIDAD 2</h3>
                                     </div>
                                     <div class="text">
-                                        <p ALIGN="justify">Actividades académicas en línea</p>
+                                        <p ALIGN="justify">Que es una base de datos MySql: es un sistema para la gestión de base de datos con más de seis millones de instalaciones en el mundo,
+                                        y que por lo tanto es el más extendido dentro de las aplicaciones relacionadas. MySQL funciona como software libre dentro del esquema de licencias GNU GPL.
+                                        MySQL es muy utilizado en aplicaciones web como WordPress, PhpBB, MediaWikio Drupal, en plataformas (Linux/Windows-Apache-MySQL-PHP/Perl/Python), 
+                                        y por herramientas de seguimiento de errores como Bugzilla. Su popularidad como aplicación web está muy ligada a PHP, que a menudo aparece en combinación con MySQL.
+                                        MySQL es una base de datos muy rápida en la lectura, lo que hace a MySQL ideal para este tipo de aplicaciones
+                                        </p>
                                     </div>
                                     <ul class="content-list">
                                     <li>
-                                            <i class="fa fa-dot-circle-o"></i>Actividad 2.1</li>
+                                            <i class="fa fa-dot-circle-o"></i>Información acerca de MySql</li>
                                         <li>
-                                            <i class="fa fa-dot-circle-o"></i>Actividad 2.2 </li>   
+                                            <i class="fa fa-dot-circle-o"></i>Configuración PhpmyAdmin</li>
+                                        <li>
+                                            <i class="fa fa-dot-circle-o"></i>Creación Base de Datos MySql</li>   
                                     </ul>
-                                    <a href="Actividad2.php" class="btn btn-style-one">Conoce Mas</a>
+                                    <a data-fancybox href="https://www.youtube.com/watch?v=65GKEwnAAHg"><i class="fa fa-play"></i>Conoce Mas</a>
                                 </div>
                             </div>
                         </div>
@@ -219,15 +233,49 @@
                                         <h3>ACTIVIDAD 3</h3>
                                     </div>
                                     <div class="text">
-                                        <p ALIGN="justify">Actividades académicas en línea</p>
+                                        <p ALIGN="justify">Que es PHP: (Hypertext Preprocessor) es un lenguaje de programación interpretado que se utiliza para la generación de páginas web de forma dinámica.
+                                         Éste código se ejecuta al lado del servidor y se incrusta dentro del código HTML. Cabe destacar que es un lenguaje de código abierto, gratuito y multiplataforma
+                                        </p>
                                     </div>
                                     <ul class="content-list">
                                     <li>
-                                            <i class="fa fa-dot-circle-o"></i>Actividad 3.1</li>
+                                            <i class="fa fa-dot-circle-o"></i>Información acerca de PHP</li>
                                         <li>
-                                            <i class="fa fa-dot-circle-o"></i>Actividad 3.2 </li>  
+                                            <i class="fa fa-dot-circle-o"></i>Programación en PHP</li>
                                     </ul>
-                                    <a href="Actividad3.php" class="btn btn-style-one">Conoce Mas</a>
+                                    <a data-fancybox href="https://www.youtube.com/watch?v=89f9vC4hZh8"><i class="fa fa-play"></i>Conoce Mas</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End single tab content-->
+                        <!--Start single tab content-->
+                        <div class="service-box tab-pane fade in" id="ACT4">
+                            <div class="col-md-6">
+                                <img class="img-responsive" src="images/services/slider3.png" alt="service-image">
+                            </div>
+                            <div class="col-md-6">
+                                <div class="contents">
+                                    <div class="section-title">
+                                        <h3>ACTIVIDAD 4</h3>
+                                    </div>
+                                    <div class="text">
+                                        <p ALIGN="justify">Que es Visual Studio Code: es un editor de código, cuyas características se asemejan a otros como Geany o el más reciente Brackets de Adobe. 
+                                        Soporta una cantidad considerable de lenguajes, ya sean propios de Microsoft como C#, F# y Visual Basic, o de otros como PHP, Phyton, Perl, SQL, 
+                                        shell scripting en Bash y Java, siendo este último el gran rival de .NET. También soporta Git y programación web con HTML, CSS y JavaScript, entre otros lenguajes.</p>
+                                    </div>
+                                    <ul class="content-list">
+                                    <li>
+                                            <i class="fa fa-dot-circle-o"></i>Información acerca de Visual Studio Code</li>
+                                        <li>
+                                            <i class="fa fa-dot-circle-o"></i>Instalación Visual Studio Code</li>
+                                        <li>
+                                            <i class="fa fa-dot-circle-o"></i>Video de Instalación</li>
+                                        <li>
+                                            <i class="fa fa-dot-circle-o"></i>Programación en PHP</li>
+                                        <li>
+                                            <i class="fa fa-dot-circle-o"></i>Conexión a una base de datos MySql desde PHP</li>  
+                                    </ul>
+                                    <a data-fancybox href="https://www.youtube.com/watch?v=f9smwa920PI"><i class="fa fa-play"></i>Conoce Mas</a>
                                 </div>
                             </div>
                         </div>

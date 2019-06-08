@@ -181,17 +181,15 @@
                                     <h3>Información general sobre el OVI</h3>
                                     </div>
                                     <div class="text">
-                                        <p ALIGN="justify">Mostrar la programación y los elementos necesarios para este vinculación</p>
+                                        <p ALIGN="justify">Desarrollar la maquetación de un proyecto web  PHP donde se evidencie la conexión y las operaciones de consulta, edición, inserción y eliminación de registros en una base de datos</p>
                                     </div>
                                     <ul class="content-list">
                                         <li>
-                                            <i class="fa fa-dot-circle-o"></i>OBJETIVO 1</li>
+                                            <i class="fa fa-dot-circle-o"></i>Comprender el manejo de la maquetación amigable que sea de forma intuitiva para el usuario final</li>
                                         <li>
-                                            <i class="fa fa-dot-circle-o"></i>OBJETIVO 2 </li>
+                                            <i class="fa fa-dot-circle-o"></i>Manejar el diseño de la aplicación acorde al dispositivo  y la cantidad de datos a ser tratados por parte del usuario </li>
                                         <li>
-                                            <i class="fa fa-dot-circle-o"></i>OBJETIVO 3</li>
-                                        <li>
-                                            <i class="fa fa-dot-circle-o"></i>OBJETIVO 4</li>
+                                            <i class="fa fa-dot-circle-o"></i>Mostrar los resultados en forma organizada  y ágil</li>
                                     </ul>
                                 </div>
                             </div>
